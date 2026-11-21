@@ -1,0 +1,24 @@
+[
+  {
+    "id": "txn_1795249055814_64g7t0",
+    "type": "expense",
+    "description": "Drave Shopping",
+    "category": "Food & Dining",
+    "amount": 2300,
+    "date": "2026-11-21",
+    "note": "Save Moneys and Low costs",
+    "createdAt": "2026-11-21T08:17:35.814Z",
+    "updatedAt": "2026-11-21T08:18:00.863Z"
+  },
+  {
+    "id": "txn_1795249207902_a49wfm",
+    "type": "expense",
+    "description": "End Task",
+    "category": "Health",
+    "amount": 2400,
+    "date": "2026-11-21",
+    "note": "Health",
+    "createdAt": "2026-11-21T08:20:07.902Z",
+    "updatedAt": "2026-11-21T08:20:07.902Z"
+  }
+]
