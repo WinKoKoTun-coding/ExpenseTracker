@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spendwise — Expense Tracker
 
 A responsive personal expense tracker built with **vanilla HTML, CSS, JavaScript, and Node.js**. Transactions are stored in a local JSON file.
@@ -74,3 +75,7 @@ Transactions are saved in `data/transactions.json`. Back up this file to preserv
 - The dashboard balance is calculated as total income minus total expenses across all recorded transactions.
 - The chart displays the latest six calendar months.
 - This is a local learning project, not a production financial service. Add authentication, authorization, backups, and stronger deployment security before exposing it publicly.
+=======
+# ExpenseTracker
+expense-tracker javascript nodejs html css rest-api dashboard personal-finance json-storage
+>>>>>>> b2df1dd3e8563d5fcfa828eec6fd23f64c95afdd
